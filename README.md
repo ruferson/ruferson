@@ -79,14 +79,14 @@ drwxr-xr-x  3 ruferson dev   4096 Oct 2026  skriftes/
 └── stack: Flutter + Dart + Cloud Firestore
 
 drwxr-xr-x  3 ruferson dev   4096 Oct 2026  feeling-client/
-├── description: Cliente web e interfaz interactiva para la aplicación Feeling
-└── stack: React + TypeScript + TailWind / CSS
+├── description: Aplicación móvil e interfaz multiplataforma para Feeling
+└── stack: Flutter + Dart
 ```
 
 - 🛸 **[HoloNet](https://github.com/ruferson/holonet)** &mdash; Cliente/Servidor de mensajería retro de los 2000s programado en Clojure reactivo.
 - ✉️ **[Skrifte's](https://github.com/ruferson)** &mdash; Experiencia móvil para envío de correspondencia digital con estilizado enriquecido.
-- 🎭 **[feeling-client](https://github.com/ruferson/feeling-client)** &mdash; Cliente frontend web dinámico para la plataforma Feeling.
-  
+- 🎭 **[feeling-client](https://github.com/ruferson/feeling-client)** &mdash; Aplicación móvil multiplataforma desarrollada en Flutter para la experiencia Feeling.
+    
 <br>
 
 <div align="center">
