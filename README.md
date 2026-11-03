@@ -85,32 +85,12 @@ drwxr-xr-x  3 ruferson dev   4096 Oct 2026  packaging-estimator/
 
 - 🛸 **[HoloNet](https://github.com/ruferson/holonet)** &mdash; Cliente/Servidor de mensajería retro de los 2000s programado en Clojure reactivo.
 - ✉️ **[Skrifte's](https://github.com/ruferson)** &mdash; Experiencia móvil para envío de correspondencia digital con estilizado enriquecido.
-- 📦 **[Packaging Estimator](https://github.com/ruferson)** &mdash; Calculadora web full-stack de volumen y costes de empaquetado.
-
+- 🎭 **[feeling-client](https://github.com/ruferson/feeling-client)** &mdash; Cliente frontend web dinámico para la plataforma Feeling.
+- 
 <br>
 
 <div align="center">
 
-```ascii
-┌────────────────────────────────────────────────────────────────────────┐
-│                             TELEMETRY                                  │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruferson&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruferson&theme=cyberpunk&hide_border=true&background=0d1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruferson&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9" height="165"/>
-</p>
-
-</div>
-
-<br>
-
-<div align="center">
 
 ```ascii
 ┌────────────────────────────────────────────────────────────────────────┐
