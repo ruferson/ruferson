@@ -1,36 +1,110 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Rubén Fernández - Frontend & Mobile Developer" width="100%"/>
-
-</div>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=600&lines=Frontend+%26+Mobile+Developer;React+%7C+React+Native+%7C+Flutter;TypeScript+%7C+Clojure+%7C+Next.js" alt="Typing SVG" />
-</h3>
-
-<br>
-
-## 💻 Sobre mí
-
-```yaml
-rol: Frontend & Mobile Developer
-titulacion: Técnico Superior en Desarrollo de Aplicaciones Web (DAW)
-experiencia: 2 años
-idiomas: Español (Nativo), Inglés (B2 First)
+```ascii
+   ██████╗ ██╗  ██╗███████╗██████╗ ███████╗██╗███╗   ██╗
+   ██╔══██╗██║  ██║██╔════╝██╔══██╗██╔════╝██║████╗  ██║
+   ██████╔╝██║  ██║█████╗  ██████╔╝███████╗██║██╔██╗ ██║
+   ██╔══██╗██║  ██║██╔══╝  ██╔══██╗╚════██║██║██║╚██╗██║
+   ██║  ██║╚█████╔╝███████╗██║  ██║███████║██║██║ ╚████║
+   ╚═╝  ╚═╝ ╚════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝
 ```
 
-- **Técnico Superior en Desarrollo de Aplicaciones Web**, especializado en maquetación, arquitectura frontend y desarrollo móvil.
-- **2 años de experiencia laboral** construyendo aplicaciones web dinámicas e interfaces móviles reactivas y escalables.
-- Me muevo como pez en el agua con **React, React Native y TypeScript**, además de explorar tecnologías funcionales como **Clojure/ClojureScript**.
-- Apasionado del diseño limpio (**Material Design 3**), el rendimiento y la creación de experiencias digitales cuidadas al milímetro.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=%24+whoami+--role+%22Frontend+%26+Mobile+Developer%22;%22Building+modern+web+%26+cross-platform+apps%22;%22React+%7C+React+Native+%7C+Flutter+%7C+Clojure%22" alt="Typing SVG" /></a>
+
+---
+
+```ascii
+┌────────────────────────────────────────────────────────────────────────┐
+│                        SYSTEM SPECIFICATIONS                           │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+```json
+{
+  "developer": "Rubén Fernández Sánchez",
+  "role": "Frontend & Mobile Application Developer",
+  "education": "Higher Vocational Qualification in Web App Dev (DAW)",
+  "experience": "2+ years professional software engineering",
+  "languages": ["Spanish (Native)", "English (B2 First)"],
+  "architecture_focus": ["UI/UX Engineering", "Cross-Platform Mobile", "Functional Web Apps"]
+}
+```
+
+```
+$ cat ~/bio/overview.md
+```
+
+- **Frontend & Mobile Specialist:** 2 años de experiencia profesional construyendo aplicaciones web dinámicas e interfaces móviles reactivas y escalables.
+- **Ecosistema Principal:** Dominio de **JavaScript / TypeScript** (**React, Next.js, React Native**) y desarrollo multiplataforma nativo con **Flutter / Dart**.
+- **Paradigma Funcional & Experimental:** Explorando la elegancia de **Clojure / ClojureScript** para arquitecturas reactivas y sistemas en tiempo real.
+- **Diseño & Rendimiento:** Enfoque meticuloso en sistemas de diseño modernos (**Material Design 3 Expressive**), optimización de carga y experiencias cuidadas al detalle.
 
 <br>
 
-## 🕹️ Stack tecnológico
+<div align="center">
+
+```ascii
+┌────────────────────────────────────────────────────────────────────────┐
+│                          TECH STACK MATRIX                             │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,flutter,clojure,nextjs,html,css,firebase,supabase,git,github&theme=dark" />
+</p>
+
+| ⚡ Core Languages | 🌐 Web Architecture | 📱 Mobile Stack | ⚙️ Backend & Storage |
+|:---|:---|:---|:---|
+| `TypeScript` `JavaScript` | `React` `Next.js` | `React Native` | `Supabase` `Firebase` |
+| `Clojure` `ClojureScript` | `HTML5` `TailwindCSS` | `Flutter` `Dart` | `SQLite` `PostgreSQL` |
+| `Dart` `SQL` | `Material Design 3` | `Dart UI` | `REST` `WebSockets` |
+
+</div>
+
+<br>
+
+```
+$ ls -la ~/projects/featured
+```
+
+```ascii
+drwxr-xr-x  3 ruferson dev   4096 Oct 2026  holonet/
+├── description: Web app de mensajería al estilo retro de los 2000s
+└── stack: Clojure/Ring + ClojureScript/Reagent + WebSockets + SQLite
+
+drwxr-xr-x  3 ruferson dev   4096 Oct 2026  skriftes/
+├── description: App móvil para redactar y enviar cartas digitales
+└── stack: Flutter + Dart + Cloud Firestore
+
+drwxr-xr-x  3 ruferson dev   4096 Oct 2026  packaging-estimator/
+├── description: Estimador web de empaquetado y cálculo de logística
+└── stack: Next.js + Supabase PostgreSQL + Vercel
+```
+
+- 🛸 **[HoloNet](https://github.com/ruferson/holonet)** &mdash; Cliente/Servidor de mensajería retro de los 2000s programado en Clojure reactivo.
+- ✉️ **[Skrifte's](https://github.com/ruferson)** &mdash; Experiencia móvil para envío de correspondencia digital con estilizado enriquecido.
+- 📦 **[Packaging Estimator](https://github.com/ruferson)** &mdash; Calculadora web full-stack de volumen y costes de empaquetado.
+
+<br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,flutter,clojure,nextjs,html,css,firebase,supabase,git,github&theme=dark" />
+```ascii
+┌────────────────────────────────────────────────────────────────────────┐
+│                             TELEMETRY                                  │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruferson&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruferson&theme=cyberpunk&hide_border=true&background=0d1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruferson&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9" height="165"/>
+</p>
 
 </div>
 
@@ -38,46 +112,13 @@ idiomas: Español (Nativo), Inglés (B2 First)
 
 <div align="center">
 
-| ⚡ Lenguajes & Lógica | 🌐 Frontend & Web | 📱 Mobile | 🛠️ Tools & Backend |
-|:---:|:---:|:---:|:---:|
-| TypeScript, JavaScript | React, Next.js | React Native | Git, GitHub |
-| Clojure / ClojureScript | HTML5, CSS3 / TailWind | Flutter | Supabase, Firebase |
-| Dart, SQL | Material 3 Expressive | Dart UI | SQLite, PostgreSQL |
+```ascii
+┌────────────────────────────────────────────────────────────────────────┐
+│                           CONNECT TERMINAL                             │
+└────────────────────────────────────────────────────────────────────────┘
+```
 
-</div>
-
-<br>
-
-## 🚀 Proyectos destacados
-
-- **[HoloNet](https://github.com/ruferson/holonet):** Web app de mensajería al estilo retro de los 2000s construida con Clojure/Ring, ClojureScript/Reagent, WebSockets y SQLite.
-- **[Skrifte's](https://github.com/ruferson):** Aplicación móvil en Flutter y Cloud Firestore para la creación y envío de cartas digitales personalizadas.
-- **[Packaging Estimator](https://github.com/ruferson):** Herramienta web full-stack para estimación de empaquetado utilizando Next.js, Supabase PostgreSQL y Vercel.
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ruferson&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruferson&theme=radical&hide_border=true&background=1a1a2e&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruferson&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=61DAFB&text_color=ffffff" height="165"/>
-
-</div>
-
-<br>
-
-## 📫 Contacto & Enlaces
-
-<div align="center">
-
-<a href="https://ruferson.github.io/"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=61DAFB" /></a>
-<a href="https://github.com/ruferson"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=61DAFB" /></a>
+<a href="https://ruferson.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00F0FF&labelColor=000000" /></a>
+<a href="https://github.com/ruferson"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=000000" /></a>
 
 </div>
