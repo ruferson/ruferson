@@ -27,7 +27,7 @@
   "role": "Frontend & Mobile Application Developer",
   "education": "Higher Vocational Qualification in Web App Dev (DAW)",
   "experience": "2+ years professional software engineering",
-  "languages": ["Spanish (Native)", "English (B2 First)"],
+  "languages": ["Spanish (Native)", "English (Bilingual)"],
   "architecture_focus": ["UI/UX Engineering", "Cross-Platform Mobile", "Functional Web Apps"]
 }
 ```
