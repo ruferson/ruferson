@@ -78,9 +78,9 @@ drwxr-xr-x  3 ruferson dev   4096 Oct 2026  skriftes/
 ├── description: App móvil para redactar y enviar cartas digitales
 └── stack: Flutter + Dart + Cloud Firestore
 
-drwxr-xr-x  3 ruferson dev   4096 Oct 2026  packaging-estimator/
-├── description: Estimador web de empaquetado y cálculo de logística
-└── stack: Next.js + Supabase PostgreSQL + Vercel
+drwxr-xr-x  3 ruferson dev   4096 Oct 2026  feeling-client/
+├── description: Cliente web e interfaz interactiva para la aplicación Feeling
+└── stack: React + TypeScript + TailWind / CSS
 ```
 
 - 🛸 **[HoloNet](https://github.com/ruferson/holonet)** &mdash; Cliente/Servidor de mensajería retro de los 2000s programado en Clojure reactivo.
