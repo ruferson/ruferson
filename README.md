@@ -83,8 +83,8 @@ drwxr-xr-x  3 ruferson dev   4096 Oct 2026  feeling-client/
 └── stack: Flutter + Dart
 ```
 
-- 🛸 **[HoloNet](https://github.com/ruferson/holonet)** &mdash; Cliente/Servidor de mensajería retro de los 2000s programado en Clojure reactivo.
-- ✉️ **[Skrifte's](https://github.com/ruferson)** &mdash; Experiencia móvil para envío de correspondencia digital con estilizado enriquecido.
+- 🛸 **[SWMessages](https://github.com/ruferson/swmessages-clj-project)** &mdash; Cliente/Servidor de mensajería retro de los 2000s programado en Clojure reactivo.
+- ✉️ **[ProxiCommerce](https://github.com/ruferson/ProxiCommerce_OS)** &mdash; Experiencia móvil para gestión de comercios.
 - 🎭 **[feeling-client](https://github.com/ruferson/feeling-client)** &mdash; Aplicación móvil multiplataforma desarrollada en Flutter para la experiencia Feeling.
     
 <br>
