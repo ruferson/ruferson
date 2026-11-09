@@ -84,7 +84,7 @@ drwxr-xr-x  3 ruferson dev   4096 Oct 2026  feeling-client/
 ```
 
 - 🛸 **[SWMessages](https://github.com/ruferson/swmessages-clj-project)** &mdash; Cliente/Servidor de mensajería retro de los 2000s programado en Clojure reactivo.
-- ✉️ **[ProxiCommerce](https://github.com/ruferson/ProxiCommerce_OS)** &mdash; Experiencia móvil para gestión de comercios.
+- ✉️ **[ProxiCommerce](https://github.com/ruferson/ProxiCommerce_OS)** &mdash; Aplicación móvil para gestión de comercios.
 - 🎭 **[feeling-client](https://github.com/ruferson/feeling-client)** &mdash; Aplicación móvil multiplataforma desarrollada en Flutter para la experiencia Feeling.
     
 <br>
