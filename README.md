@@ -69,20 +69,6 @@ $ cat ~/bio/overview.md
 $ ls -la ~/projects/featured
 ```
 
-```ascii
-drwxr-xr-x  3 ruferson dev   4096 Oct 2026  holonet/
-├── description: Web app de mensajería al estilo retro de los 2000s
-└── stack: Clojure/Ring + ClojureScript/Reagent + WebSockets + SQLite
-
-drwxr-xr-x  3 ruferson dev   4096 Oct 2026  skriftes/
-├── description: App móvil para redactar y enviar cartas digitales
-└── stack: Flutter + Dart + Cloud Firestore
-
-drwxr-xr-x  3 ruferson dev   4096 Oct 2026  feeling-client/
-├── description: Aplicación móvil e interfaz multiplataforma para Feeling
-└── stack: Flutter + Dart
-```
-
 - 🛸 **[SWMessages](https://github.com/ruferson/swmessages-clj-project)** &mdash; Cliente/Servidor de mensajería retro de los 2000s programado en Clojure reactivo.
 - ✉️ **[ProxiCommerce](https://github.com/ruferson/ProxiCommerce_OS)** &mdash; Aplicación móvil para gestión de comercios.
 - 🎭 **[feeling-client](https://github.com/ruferson/feeling-client)** &mdash; Aplicación móvil multiplataforma desarrollada en Flutter para la experiencia Feeling.
